@@ -1,0 +1,14 @@
+# Manipulation des données (Phase 2)
+pandas
+numpy
+
+# Visualisation et Graphiques (Phase 1 & 4)
+matplotlib
+seaborn
+
+# Machine Learning & Prétraitement (Phase 2 & 3)
+scikit-learn
+joblib
+
+
+
