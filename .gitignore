@@ -1,0 +1,17 @@
+# Ignorer les données (Trop lourd pour GitHub)
+data/
+*.csv
+*.pcap
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de l'IDE
+.vscode/
+.idea/
+
+# Ignorer les environnements virtuels
+venv/
+env/
